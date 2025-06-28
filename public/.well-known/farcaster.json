@@ -1,13 +1,13 @@
 {
   "frame": {
-    "name": "h",
+    "name": "hello-app",
     "version": "1",
-    "iconUrl": "https://f-demo.vercel.app/logo.png",
-    "homeUrl": "https://f-demo.vercel.app/logo.png",
-    "subtitle": "h",
-    "description": "h",
-    "primaryCategory": "games",
-    "splashImageUrl": "https://f-demo.vercel.app/logo.png",
-    "splashBackgroundColor": "#ffffff"
+    "iconUrl": "https://hello-app-one-mu.vercel.app/logo.png",
+    "homeUrl": "https://hello-app-one-mu.vercel.app",
+    "splashImageUrl": "https://hello-app-one-mu.vercel.app/logo.png",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "hello-app",
+    "description": "hello-app",
+    "primaryCategory": "games"
   }
-}
+ }
