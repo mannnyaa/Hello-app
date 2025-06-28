@@ -9,5 +9,11 @@
     "subtitle": "hello-app",
     "description": "hello-app",
     "primaryCategory": "games"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjY4MTY3OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDREMDU1QTAyNzZkYzdEM0JGQjZBM0MyN0IwOWYxZmM5Mjk3OTVmMTMifQ",
+    "payload": "eyJkb21haW4iOiJoZWxsby1hcHAtb25lLW11LnZlcmNlbC5hcHAifQ",
+    "signature": "MHg1NDM3ZTA1NjZjMmY5NzE5MTQxOWQ4MzU5NjMzMzJlZmJlNTc1ZWVjNzE5OTRiNzVjMmI1Y2I2YTkxNzBmMTQ0MzAyZDhmNjZiNjczMWFkMDkyNTViYzc2ZmFmY2EwMWNiYjAyMWU1ZWFkMjM3MDU5NzA3MzZmYjEzMWY0NzVhOTFj"
   }
- }
+}
+ 
